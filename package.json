@@ -11,7 +11,7 @@
     "author": "Mark Schumaker",
     "license": "ISC",
     "dependencies": {
-        "markdown-it": "9.1.0",
+        "markdown-it": "12.3.2",
         "prismjs": "1.17.1",
         "highlightjs": "9.12.0",
         "uniqid": "5.1.0",
